@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">MyCityApp</string>
+    <!-- International Park -->
+    <string name="international_park_name">International Park</string>
+    <string name="international_park_description">A large recreational park featuring gardens, lakes, and walking paths.</string>
+    <string name="international_park_location">Nasr City, Cairo</string>
+
+    <!-- Citystars Shopping -->
+    <string name="citystars_shopping_name">Citystars Shopping</string>
+    <string name="citystars_shopping_description">A modern shopping complex with various retail stores, dining options, and a cinema.</string>
+    <string name="citystars_shopping_location">Nasr City, Cairo</string>
+
+    <!-- Khan El Khalili Shopping -->
+    <string name="khan_elkhalili_shopping_name">Khan El Khalili Shopping</string>
+    <string name="khan_elkhalili_shopping_description">A historic bazaar with traditional shops selling souvenirs, jewelry, and handicrafts.</string>
+    <string name="khan_elkhalili_shopping_location">Islamic Cairo, Cairo</string>
+
+    <!-- Mall of Egypt Shopping -->
+    <string name="mall_of_egypt_shopping_name">Mall of Egypt Shopping</string>
+    <string name="mall_of_egypt_shopping_description">A premium shopping mall with international brands, dining, and an indoor ski slope.</string>
+    <string name="mall_of_egypt_shopping_location">6th of October City, Giza</string>
+
+    <!-- Aqua Restaurant -->
+    <string name="aqua_restaurant_name">Aqua Restaurant</string>
+    <string name="aqua_restaurant_description">A seafood restaurant known for its fresh dishes and unique ambiance.</string>
+    <string name="aqua_restaurant_location">Zamalek, Cairo</string>
+
+    <!-- Al-Azhar Park -->
+    <string name="azhar_park_name">Al-Azhar Park</string>
+    <string name="azhar_park_description">A scenic park with beautifully landscaped gardens and panoramic views of Cairo.</string>
+    <string name="azhar_park_location">Islamic Cairo, Cairo</string>
+
+    <!-- Family Park -->
+    <string name="family_park_name">Family Park</string>
+    <string name="family_park_description">A family-oriented park with playgrounds, open spaces, and a small zoo.</string>
+    <string name="family_park_location">New Cairo, Cairo</string>
+
+    <!-- Montaza Palace Park -->
+    <string name="montaza_palace_park_name">Montaza Palace Park</string>
+    <string name="montaza_palace_park_description">A historical park featuring royal gardens and a view of the Mediterranean Sea.</string>
+    <string name="montaza_palace_park_location">Montaza, Alexandria</string>
+
+    <!-- Abou Tarek Restaurant -->
+    <string name="abou_tarek_restaurant_name">Abou Tarek Restaurant</string>
+    <string name="abou_tarek_restaurant_description">A famous eatery specializing in Egyptian koshary, a traditional street food.</string>
+    <string name="abou_tarek_restaurant_location">Downtown Cairo, Cairo</string>
+
+    <!-- Hawawshi El Refaey Restaurant -->
+    <string name="hawawshi_elrefaey_restaurant_name">Hawawshi El Refaey Restaurant</string>
+    <string name="hawawshi_elrefaey_restaurant_description">A popular spot known for its delicious hawawshi, a type of Egyptian meat pastry.</string>
+    <string name="hawawshi_elrefaey_restaurant_location">Heliopolis, Cairo</string>
+
+    <!-- Arabiata Restaurant -->
+    <string name="arabiata_restaurant_name">Arabiata Restaurant</string>
+    <string name="arabiata_restaurant_description">A chain restaurant famous for its Egyptian fast food and falafel sandwiches.</string>
+    <string name="arabiata_restaurant_location">Multiple locations in Cairo</string>
+
+    <!-- The White Desert Tourism -->
+    <string name="the_white_dessert_tourism_name">The White Desert</string>
+    <string name="the_white_dessert_tourism_description">A unique natural landscape of white chalk formations and surreal scenery.</string>
+    <string name="the_white_dessert_tourism_location">Farafra Oasis, Western Desert</string>
+
+    <!-- Sakkara Pyramid Tourism -->
+    <string name="sakkara_pyramid_tourism_name">Sakkara Pyramid</string>
+    <string name="sakkara_pyramid_tourism_description">An ancient burial ground featuring the Step Pyramid, the oldest stone structure in Egypt.</string>
+    <string name="sakkara_pyramid_tourism_location">Sakkara, Giza</string>
+
+    <!-- Mohamed Ali Mosque Tourism -->
+    <string name="mohamed_ali_mosque_tourism_name">Mohamed Ali Mosque</string>
+    <string name="mohamed_ali_mosque_tourism_description">A historic mosque with an impressive Ottoman-style design and panoramic views of Cairo.</string>
+    <string name="mohamed_ali_mosque_tourism_location">Salah El-Din Citadel, Cairo</string>
+
+    <!-- Cairo Tower Tourism -->
+    <string name="cairo_tower_tourism_name">Cairo Tower</string>
+    <string name="cairo_tower_tourism_description">An iconic tower offering a 360-degree view of Cairo from its observation deck.</string>
+    <string name="cairo_tower_tourism_location">Gezira Island, Zamalek, Cairo</string>
+
+    <!-- Old Cairo Tourism -->
+    <string name="old_cairo_tourism_name">Old Cairo</string>
+    <string name="old_cairo_tourism_description">A historic area with Coptic churches, Islamic monuments, and ancient streets.</string>
+    <string name="old_cairo_tourism_location">Old Cairo, Cairo</string>
+
+    <!-- Gezira Island Tourism -->
+    <string name="gezira_island_tourism_name">Gezira Island</string>
+    <string name="gezira_island_tourism_description">A central island in the Nile River with parks, cultural venues, and the Cairo Opera House.</string>
+    <string name="gezira_island_tourism_location">Zamalek, Cairo</string>
+
+    <string name="categories">Categories</string>
+    <string name="places">Places</string>
+    <string name="details">Details</string>
+    <string name="back">Back</string>
+    <string name="park">Parks</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="tourism">Tourism</string>
+    <string name="shopping">Shopping</string>
+
+</resources>
